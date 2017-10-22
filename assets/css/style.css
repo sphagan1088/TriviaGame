@@ -1,0 +1,49 @@
+body {
+	background-image: url("../images/map.jpg");
+	width: 100%;
+}
+
+
+h1 {
+	display:inline-block;
+	text-align: center;
+	padding: 20px;
+	font-weight: bold;
+
+}
+
+
+img {
+	width:14%;
+	padding: 0px 10px 0px 10px;
+
+}
+
+.row {
+	margin-top: 90px;
+	background-color: navy;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
+
+}
+
+.timer {
+	display: none;
+}
+.start-btn {
+	background-color: gray;
+	color: black;
+	margin-top: 50px;
+	font-size: 60px;
+	padding: 10px;
+}
+
+label {
+	padding: 20px 0px 20px 0px;
+}
+
+form {
+	display: none;
+}
