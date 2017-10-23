@@ -29,8 +29,9 @@ img {
 
 }
 
-.timer {
-	display: none;
+#show-timer {
+	
+	color: white;
 }
 .start-btn {
 	background-color: gray;
@@ -44,6 +45,14 @@ label {
 	padding: 20px 0px 20px 0px;
 }
 
-form {
-	display: none;
+
+
+#done-btn {
+
+	background-color: gray;
+	color: black;
+	margin-top: 50px;
+	font-size: 60px;
+	padding: 10px;
+}
 }
